@@ -82,3 +82,23 @@ The **Master E-commerce Strapi Next.js App** is a comprehensive e-commerce appli
 ### Conclusion
 
 The **Master E-commerce Strapi Next.js App** offers a robust foundation for building feature-rich e-commerce platforms. With its modular architecture, developer-friendly tools, and extensive functionality, it enables developers to create high-performance and scalable online stores efficiently.
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fecommerce-strapi-nextjs&root-directory=frontend)
+
+Click the button to deploy your own copy on Vercel in one step.
+
+The app lives in the `frontend` folder, which the button sets as the Vercel root directory.
+
+Set these environment variables in the Vercel project settings (see `.env.example`):
+
+- `DISCORD_CLIENT_ID`
+- `DISCORD_CLIENT_SECRET`
+- `GITHUB_ID`
+- `GITHUB_SECRET`
+- `GOOGLE_CLIENT_ID`
+- `GOOGLE_CLIENT_SECRET`
+- `NEXTAUTH_SECRET`
+- `STRAPI_API_HOST`
+- `STRAPI_TOKEN`

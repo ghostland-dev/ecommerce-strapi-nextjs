@@ -1,3 +1,5 @@
+
+[![CI](https://github.com/ghostland-dev/ecommerce-strapi-nextjs/actions/workflows/ci.yml/badge.svg)](https://github.com/ghostland-dev/ecommerce-strapi-nextjs/actions/workflows/ci.yml)
 ### Master E-commerce Strapi Next.js App
 
 The **Master E-commerce Strapi Next.js App** is a comprehensive e-commerce application template that combines the power of Strapi for backend content management and Next.js for frontend development. This app is designed to offer a seamless and scalable solution for building modern e-commerce platforms.

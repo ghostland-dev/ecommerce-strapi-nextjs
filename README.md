@@ -102,3 +102,10 @@ Set these environment variables in the Vercel project settings (see `.env.exampl
 - `NEXTAUTH_SECRET`
 - `STRAPI_API_HOST`
 - `STRAPI_TOKEN`
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
